@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    p{
+        @apply font-Roboto text-CorTexto
+    }
+
+    h1{
+        @apply font-Oswald text-CorTexto
+    }
+
+    h2{ 
+        @apply font-Oswald text-CorTexto
+    }
+
+    h3{
+        @apply font-Oswald
+    }
+}
+
+@layer components{
+    .custom-hadow{
+        box-shadow: 5px 5px;
+    }
+}
