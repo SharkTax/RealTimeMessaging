@@ -1,4 +1,7 @@
 # Web-based Messaging Application on real time
+
+## Video video demonstrating the project: [link](https://www.linkedin.com/feed/update/urn:li:activity:7195215542142586880/)
+
 ### Project Overview
 This project is a simple yet efficient online chat platform allowing real-time interaction across chat rooms. At its core, users can engage in conversations within different chat environments. For its implementation, I utilized Firebase and React technologies. Firebase was chosen primarily for its cloud-based capabilities so i could learn the sintaxe, while i could learn more deep React and implementing modern web development concepts. <br><br>
 Throughout the development process, I extensively referred to Firebase documentation to grasp its functionalities. Additionally, I delved into React hooks, mainly useEffect, useState, and useRef to manage the application state and lifecycle effectively. ChatGPT played a pivotal role during moments of uncertainty, serving as a valuable resource for clarifying concepts and overcoming challenges.
